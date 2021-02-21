@@ -13,3 +13,5 @@
 ![My Github Status Card](https://github-readme-stats.vercel.app/api?username=CNXudiandian&show_icons=true&bg_color=DEG,004fa0,8feca3&text_color=ffffff&title_color=ffffff&icon_color=ffc107&hide_border=true)
 
 ![Like Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CNXudiandian&show_icons=true&bg_color=DEG,004fa0,8feca3&text_color=ffffff&title_color=ffffff&icon_color=ffc107&hide_border=true&card_width=495)
+
+Github个人统计卡片来自anuraghazra/github-readme-stats项目（[链接](https://github.com/anuraghazra/github-readme-stats)）
